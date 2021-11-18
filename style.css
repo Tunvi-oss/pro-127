@@ -1,0 +1,27 @@
+.heading
+{
+    font-size:23px  ;
+    width:100% ;
+    margin: 0px;
+}
+
+.note
+{
+    color: aqua;
+    font-size:15px;
+}
+
+body{
+    background: cover;
+}
+
+#song
+{
+    color:black;
+    font-family: fantasy;
+    font-size: 20px;
+}
+canvas{
+    border:5px solid white;
+    border-radius:20px;
+}
